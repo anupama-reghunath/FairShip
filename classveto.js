@@ -4,7 +4,7 @@ var classveto =
     [ "veto", "classveto.html#ad960d22c339cee9824364c451ee998bf", null ],
     [ "~veto", "classveto.html#a264e0adf7759b8f80403d5a60d70427c", null ],
     [ "veto", "classveto.html#ae53e8f94bd913c29260a9c73860176f8", null ],
-    [ "AddBlock", "classveto.html#a8933d77df311eb11a42831beaf55be70", null ],
+    [ "AddBlock", "classveto.html#ab362a8a3c4be9f92387e6dafd06b5c5c", null ],
     [ "AddHit", "classveto.html#aee2faf889e77a90ccb2219257fd728e1", null ],
     [ "BeginEvent", "classveto.html#ae939b30e0fb33f2dc3ace63b3d577df6", null ],
     [ "BeginPrimary", "classveto.html#a9946f2d5e7ef389943b30f9666d02bdc", null ],
