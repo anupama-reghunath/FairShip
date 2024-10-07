@@ -1,5 +1,6 @@
 var NAVTREEINDEX58 =
 {
+"test__mongodbadapter_8py.html#a6d48e6d68682def2d62d49413418a9d2":[14,0,0,2,0,2,5],
 "test__mongodbadapter_8py.html#a7208b0b2e93f80025de7633c97563a6d":[14,0,0,2,0,2,2],
 "test__mongodbadapter_8py.html#a9258ed0fac305dcf4374174c37a30801":[14,0,0,2,0,2,18],
 "test__mongodbadapter_8py.html#a92e63851c5a27f27df083fa673fad3c7":[14,0,0,2,0,2,0],

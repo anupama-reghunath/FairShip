@@ -1,5 +1,6 @@
 var NAVTREEINDEX37 =
 {
+"namespaceMufluxPatRec.html#a02230fb04014b6c21ed695e1be8ad91f":[12,0,74,9],
 "namespaceMufluxPatRec.html#a231f00c6e0d980d947a4d2f1b440b8ed":[12,0,74,7],
 "namespaceMufluxPatRec.html#a23856c97acae1e3286d54eb373b8a9b9":[12,0,74,14],
 "namespaceMufluxPatRec.html#a4e3804999341dd8cf30b44d1ee8c1c3e":[12,0,74,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX37 =
 "namespaceTTCluster.html#a480702b668fce5fe4e7ce8a8a7ec723f":[12,0,129,49],
 "namespaceTTCluster.html#a4d10dcbcd37d150792b9e08986eb55aa":[12,0,129,82],
 "namespaceTTCluster.html#a56ab2a96c3d2760c85996f3c0bde9bac":[12,0,129,85],
-"namespaceTTCluster.html#a582d342d7aefc9528e9b8942028f7bc1":[12,0,129,80],
-"namespaceTTCluster.html#a587df3e79359e8c7da15f56aaf318fda":[12,0,129,76]
+"namespaceTTCluster.html#a582d342d7aefc9528e9b8942028f7bc1":[12,0,129,80]
 };
