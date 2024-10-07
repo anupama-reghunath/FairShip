@@ -74,10 +74,10 @@ var NAVTREE =
       [ "Documentation", "md_README.html#autotoc_md40", null ],
       [ "Contributing code", "md_README.html#autotoc_md41", null ]
     ] ],
-    [ "Documentation: Veto ( Decay Vessel + Integrated SBT )", "md_veto_vetoREADME.html", [
-      [ "Introduction", "md_veto_vetoREADME.html#autotoc_md43", null ],
-      [ "Plots and Results", "md_veto_vetoREADME.html#autotoc_md44", [
-        [ "Plot 1: Description of Focus Line for the geometry:", "md_veto_vetoREADME.html#autotoc_md45", null ]
+    [ "Documentation: Veto ( Decay Vessel + Integrated SBT )", "md_veto_README.html", [
+      [ "Introduction", "md_veto_README.html#autotoc_md43", null ],
+      [ "Plots and Results", "md_veto_README.html#autotoc_md44", [
+        [ "Plot 1: Description of Focus Line for the geometry:", "md_veto_README.html#autotoc_md45", null ]
       ] ]
     ] ],
     [ "Namespaces", "namespaces.html", [
