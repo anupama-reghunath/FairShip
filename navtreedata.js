@@ -74,6 +74,12 @@ var NAVTREE =
       [ "Documentation", "md_README.html#autotoc_md40", null ],
       [ "Contributing code", "md_README.html#autotoc_md41", null ]
     ] ],
+    [ "Documentation: Veto ( Decay Vessel + Integrated SBT )", "md_veto_vetoREADME.html", [
+      [ "Introduction", "md_veto_vetoREADME.html#autotoc_md43", null ],
+      [ "Plots and Results", "md_veto_vetoREADME.html#autotoc_md44", [
+        [ "Plot 1: Description of Focus Line for the geometry:", "md_veto_vetoREADME.html#autotoc_md45", null ]
+      ] ]
+    ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -150,30 +156,30 @@ var NAVTREEINDEX =
 "geometry__config_8py.html#ae949308a33fbd7f7096e0223cba1e10b",
 "hepunit_8py.html#a7b175a4b054a7377d450ffd98587da9f",
 "makeDecay_8py.html#a8cfe9e861329fa8de60a03e354af437e",
-"mpbits_8f90.html#a8ee45ed456a58bf46d0b55ac62d04c0e",
-"mpmod_8f90.html#acc78106d0f44a814ec8e7779001f28d6",
-"namespaceMufluxPatRec.html#a62fd58a32ca32210bb3b40eacad75ddb",
-"namespaceTTCluster.html#a6bccfadd2cbeb3f27659a4ac0b63891b",
-"namespacecharm-geometry__config.html#a55a911e4df28f70e0e9b4934a56eb3ab",
-"namespaceconditionsDatabase_1_1databases_1_1mongodb_1_1mongodbadapter.html#a2ada962ec6a6f0e089ec6dd03d96e571",
-"namespaceconditionsDatabase_1_1demo_1_1drifttubeMonitoring.html#ac960c78e43bbb29ef9a22f64faeb6b83",
-"namespaceeveGlobal.html#af384e4f875e85dd37b0398e54a393298",
-"namespaceg4Ex__gap__mergeFiles.html#a2bd0162f169ff3e31dba248ae0ea4ea3",
-"namespacegeometry__config.html#a8aa4182e12a2746d01d4a85e5d322445",
-"namespacehepunit.html#a1fbf96a628066d4949b01a2f07102da3",
-"namespacemakeDecay.html#a8718f33cd01d5a873aede1561940be4b",
-"namespaceminresqlpdatamodule.html#ab8efc81097a4de8d933c8a04d4621bd5",
-"namespacempmod.html#ac573f05a09f12bb6c00492f1d7374d9e",
-"namespacerpvsusy.html#a8b5544128495c9d33bee37ddf3210f10",
-"namespacerun__reco.html#a7801d15f7e6e3934001ab869f8530c97",
-"namespaceshipPatRec__prev.html#a05a13cfeb6d5e2c4fd3bca6bef68e2a9",
-"namespacestudy__GammaConv.html#a7d2b59793ee6eff6f659d6e60b00a70a",
-"pede_8f90.html#ad7828f3b25225915586ac1d5a1a98206",
-"runMufluxDigi_8py.html#af981d560783dde1f9354375d6967e11e",
-"run__simEcal_8py.html#affc0d74c43bec52eb87b6ef419741da9",
-"shipPatRec__prev_8py.html#a99a5bdb37b011216720d77f47e7d9282",
-"structChannelId.html",
-"test__mongodbadapter_8py.html#aa9a96ba0e0df1d0f5137ba95be3ace00"
+"mpbits_8f90.html#a5565f05ff15ba9aba67b318aa2765c0c",
+"mpmod_8f90.html#ac4ad271e889f6d6ae362bdc80e3af05c",
+"namespaceMufluxPatRec.html#a231f00c6e0d980d947a4d2f1b440b8ed",
+"namespaceTTCluster.html#a5e3795a2eaaa0da90e1e74cec56c97a5",
+"namespacecharm-geometry__config.html#a535e70fd816ed066eefc532f5c01abbd",
+"namespaceconditionsDatabase_1_1databases_1_1mongodb_1_1models_1_1detector.html",
+"namespaceconditionsDatabase_1_1demo_1_1drifttubeMonitoring.html#ac80d4046fb0f32e614088378d6346728",
+"namespaceevd__nextEvent.html#a69c0f2e5a10843d7364dcaa753ecac73",
+"namespaceg4Ex__gap__mergeFiles.html#a196fb8f6a4ff597dc8d4c5d23673e253",
+"namespacegeometry__config.html#a883b84599e46b2e590b2f62a7a6b1b2b",
+"namespacehepunit.html#a1a2cdaa70a7eba9e31ec1425fbb7eff0",
+"namespacemakeDecay.html#a6fe8eaf948b1566b26ae99e59d1f9f16",
+"namespaceminresqlpdatamodule.html#a47178d87c628737866256ba40dae7637",
+"namespacempmod.html#abee6ce994385c39f2092df791a95802a",
+"namespacerootpyPickler.html#ae429cfd7de5349512a04544726926582",
+"namespacerun__reco.html#a2fbefc3c8d0c53e224fe053a9daffbde",
+"namespaceshipPatRec__prev.html",
+"namespacestudy__GammaConv.html#a46d8bcfd00ad1645018ba4ec9b12839a",
+"pede_8f90.html#aba466fbf4e152b7b0367a5cf63e8311c",
+"runMufluxDigi_8py.html#ac55f8a8ce2336e709609cce97606bd71",
+"run__simEcal_8py.html#ab781f41883a70d5ba32dbea56c8ad313",
+"shipPatRec__prev_8py.html#a904329c53864b9eb1cc99ba5d24b5e2e",
+"strawtubes_8h.html",
+"test__mongodbadapter_8py.html#a7208b0b2e93f80025de7633c97563a6d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
