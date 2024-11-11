@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "FairShip", "index.html", [
-    [ "FairShip documentation", "index.html", "index" ],
+    [ "FairShip documentation", "index.html", null ],
     [ "Changelog", "md_CHANGELOG.html", [
       [ "Unreleased", "md_CHANGELOG.html#autotoc_md1", [
         [ "Added", "md_CHANGELOG.html#autotoc_md2", null ],
@@ -33,52 +33,37 @@ var NAVTREE =
         [ "Changed", "md_CHANGELOG.html#autotoc_md4", null ],
         [ "Removed", "md_CHANGELOG.html#autotoc_md5", null ]
       ] ],
-      [ "24.10 - Freiburg", "md_CHANGELOG.html#autotoc_md6", [
+      [ "24.11", "md_CHANGELOG.html#autotoc_md6", [
         [ "Added", "md_CHANGELOG.html#autotoc_md7", null ],
         [ "Fixed", "md_CHANGELOG.html#autotoc_md8", null ],
         [ "Changed", "md_CHANGELOG.html#autotoc_md9", null ],
         [ "Removed", "md_CHANGELOG.html#autotoc_md10", null ]
+      ] ],
+      [ "24.10 - Freiburg", "md_CHANGELOG.html#autotoc_md11", [
+        [ "Added", "md_CHANGELOG.html#autotoc_md12", null ],
+        [ "Fixed", "md_CHANGELOG.html#autotoc_md13", null ],
+        [ "Changed", "md_CHANGELOG.html#autotoc_md14", null ],
+        [ "Removed", "md_CHANGELOG.html#autotoc_md15", null ]
       ] ]
     ] ],
-    [ "README", "md_conditionsDatabase_databases_mongodb_models_README.html", null ],
-    [ "README", "md_conditionsDatabase_databases_mongodb_README.html", null ],
-    [ "README", "md_conditionsDatabase_databases_README.html", null ],
-    [ "README", "md_conditionsDatabase_demo_README.html", null ],
-    [ "conditionsDB package", "md_conditionsDatabase_README.html", [
-      [ "Introduction", "md_conditionsDatabase_README.html#autotoc_md16", [
-        [ "Supported storage back-ends", "md_conditionsDatabase_README.html#autotoc_md17", null ]
-      ] ],
-      [ "Package structure", "md_conditionsDatabase_README.html#autotoc_md18", null ],
-      [ "Package dependencies", "md_conditionsDatabase_README.html#autotoc_md19", [
-        [ "Python", "md_conditionsDatabase_README.html#autotoc_md20", null ],
-        [ "Storage back-ends", "md_conditionsDatabase_README.html#autotoc_md21", null ],
-        [ "aliBuild integration", "md_conditionsDatabase_README.html#autotoc_md22", null ]
-      ] ],
-      [ "Documentation generation", "md_conditionsDatabase_README.html#autotoc_md23", null ],
-      [ "Supported Python version", "md_conditionsDatabase_README.html#autotoc_md24", null ]
-    ] ],
-    [ "README", "md_conditionsDatabase_tests_README.html", [
-      [ "Directory structure", "md_conditionsDatabase_tests_README.html#autotoc_md26", null ]
-    ] ],
-    [ "Unit Test", "md_conditionsDatabase_tests_test_mongodb_README.html", null ],
     [ "README", "md_field_README.html", null ],
     [ "FairShip", "md_README.html", [
-      [ "Introduction", "md_README.html#autotoc_md33", [
-        [ "Branches", "md_README.html#autotoc_md34", null ]
+      [ "Introduction", "md_README.html#autotoc_md18", [
+        [ "Branches", "md_README.html#autotoc_md19", null ]
       ] ],
-      [ "Build Instructions using CVMFS", "md_README.html#autotoc_md35", null ],
-      [ "Local build, without access to CVMFS", "md_README.html#autotoc_md36", null ],
-      [ "Run instructions", "md_README.html#autotoc_md37", null ],
-      [ "Docker instructions", "md_README.html#autotoc_md38", null ],
-      [ "Troubleshooting information", "md_README.html#autotoc_md39", null ],
-      [ "Documentation", "md_README.html#autotoc_md40", null ],
-      [ "Contributing code", "md_README.html#autotoc_md41", null ]
+      [ "Build Instructions using CVMFS", "md_README.html#autotoc_md20", null ],
+      [ "Local build, without access to CVMFS", "md_README.html#autotoc_md21", null ],
+      [ "Run instructions", "md_README.html#autotoc_md22", null ],
+      [ "Docker instructions", "md_README.html#autotoc_md23", null ],
+      [ "Troubleshooting information", "md_README.html#autotoc_md24", null ],
+      [ "Documentation", "md_README.html#autotoc_md25", null ],
+      [ "Contributing code", "md_README.html#autotoc_md26", null ]
     ] ],
     [ "Documentation: Veto ( Decay Vessel + Integrated SBT )", "md_veto_README.html", [
-      [ "Introduction", "md_veto_README.html#autotoc_md43", null ],
-      [ "Plots and Results", "md_veto_README.html#autotoc_md44", [
-        [ "Plot 1: Description of Focus Line for the geometry:", "md_veto_README.html#autotoc_md45", null ],
-        [ "Dummy Table:", "md_veto_README.html#autotoc_md46", null ]
+      [ "Introduction", "md_veto_README.html#autotoc_md28", null ],
+      [ "Plots and Results", "md_veto_README.html#autotoc_md29", [
+        [ "Plot 1: Description of Focus Line for the geometry:", "md_veto_README.html#autotoc_md30", null ],
+        [ "Dummy Table:", "md_veto_README.html#autotoc_md31", null ]
       ] ]
     ] ],
     [ "Namespaces", "namespaces.html", [
@@ -86,9 +71,7 @@ var NAVTREE =
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", "namespacemembers_dup" ],
         [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
-        [ "Variables", "namespacemembers_vars.html", "namespacemembers_vars" ],
-        [ "Enumerations", "namespacemembers_enum.html", null ],
-        [ "Enumerator", "namespacemembers_eval.html", null ]
+        [ "Variables", "namespacemembers_vars.html", "namespacemembers_vars" ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -108,13 +91,13 @@ var NAVTREE =
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
-        [ "All", "globals.html", "globals_dup" ],
+        [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
         [ "Variables", "globals_vars.html", null ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Enumerations", "globals_enum.html", null ],
         [ "Enumerator", "globals_eval.html", null ],
-        [ "Macros", "globals_defs.html", "globals_defs" ]
+        [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
   ] ]
@@ -123,64 +106,46 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "ALPACAGenerator_8cxx.html",
-"ShipAna_8py.html#a02a40c51d86f2bb079d5d8018e56f028",
-"ShipReco_8py.html#a32e56e9a25dc0bc56652844ee7f9ee9b",
-"ana__ShipMuon_8py.html",
-"cfortran_8h.html#a2d6d08fac5468ce383a744abd94ddc67",
-"cfortran_8h.html#a72a3ef1d8bfbf67d35400612381717d3",
-"cfortran_8h.html#abbc7af1d8c9583d1026e1e2695347c0b",
-"charm-geometry__config_8py.html#a0758540ecdec75dd937d2886ac2965be",
-"charm-geometry__config_8py.html#ae5fd66044e72697f2d4c4545481ad1aa",
-"classEmulsionMagnet.html#ab9fdee459c54e782161ace817b621193",
-"classHpt.html#a548233c89d0bc33a5744027a08dd128e",
-"classMufluxDigi_1_1MufluxDigi.html#ae4488d95cbf561e0e3b5db2da3dc3c30",
-"classNuTauMudet.html#afe0516122d24109ff9daba6860cb7d5d",
-"classShipBFieldMap.html#a1b67158ae179d38d9a21c0aff8a4637a",
-"classShipFieldPar.html#a923328f792d346bb6ffdcdd8e00167b2",
-"classShipStack.html#a1e50638e079c16db3e5e17d7f4e09d6d",
-"classTargetTracker.html",
-"classUpstreamTagger.html#aaaa48f6f0cf80e9015d153aee29141c3",
-"classecal.html#aed23546affbec8771571a295ec621394",
-"classecalDrawer.html#a3eea9fe571e245784195a5706429d577",
-"classecalReco.html#a70c729306fb90ea9851c8ce594965469",
-"classg4Ex__gap_1_1MySteppingAction.html",
-"classhcalModuleMC.html#a5ba7b17c17d184ea247b9c85779dc0e7",
-"classpreshower.html#a4b7631d9f4aa022807163fdfc3903eec",
-"classshipPid_1_1Task.html#aff8b611ed7ec2721df4ac9f098e65793",
-"classsplitcalHit.html#aba9ee83399c412d4c01fd172435da5fe",
-"classveto.html#a79c0ae405dc46e6102dd3e1bb6b1e5a1",
-"drifttubeMonitoring_8py.html#a08df7e65d36aefda2270bce378aff817",
-"drifttubeMonitoring_8py.html#ad34e16c3f55b860db57267f6e5f7a560",
-"eventDisplay_8py.html#ab3ce643dc5c8c18a586f1d8e43479c90",
-"g4Ex__args_8py_source.html",
-"geometry__config_8py.html#a4df31b854a7f94086b92863dd214e5a9",
-"geometry__config_8py.html#ae949308a33fbd7f7096e0223cba1e10b",
-"hepunit_8py.html#a7b175a4b054a7377d450ffd98587da9f",
-"makeDecay_8py.html#a8cfe9e861329fa8de60a03e354af437e",
-"mpbits_8f90.html#a51404b84b43ea15b55a5da3a5e0d9181",
-"mpmod_8f90.html#ac4071e54b5562829dba9c413b93cce82",
-"namespaceMufluxPatRec.html#a02230fb04014b6c21ed695e1be8ad91f",
-"namespaceTTCluster.html#a587df3e79359e8c7da15f56aaf318fda",
-"namespacecharm-geometry__config.html#a51e8d444e9800cd55a978a8b9a50665e",
-"namespaceconditionsDatabase_1_1databases_1_1mongodb_1_1models_1_1condition.html",
-"namespaceconditionsDatabase_1_1demo_1_1drifttubeMonitoring.html#ac7cc09ce84b823318f11983dc4f2c812",
-"namespaceevd__nextEvent.html",
-"namespaceg4Ex__gap__mergeFiles.html#a18079ac914ea24a612c2cbeed2e0ce53",
-"namespacegeometry__config.html#a86f7a3618740cec2b4536f69e97d0af7",
-"namespacehepunit.html#a17e4ed3521ea603ec4ac15295aa3b8fb",
-"namespacemakeDecay.html#a6ca9ee1ac5dd881b42ce74249e60c74b",
-"namespaceminresqlpdatamodule.html#a2bf38e2df99d9c2c503447bba2368f49",
-"namespacempmod.html#abebbe378eaef934cd254dbb758556e27",
-"namespacerootpyPickler.html#ac77f7acc02057f22345b6855dd94a8a9",
-"namespacerun__reco.html#a27df53b673b5cdee8481d74b56b66c3e",
-"namespaceshipPatRec.html#aff24a00b92c242522a58fd1f5153a338",
-"namespacestudy__GammaConv.html#a4537670e1a25c4d52f22ebac4ec6692b",
-"pede_8f90.html#ab5692a8832b068ae46126b2c0d8feeaa",
-"runMufluxDigi_8py.html#ac14f6b43e30e39d3720bce19fe73f17c",
-"run__simEcal_8py.html#ab4fa19e6e982f410a1d251490f6514a5",
-"shipPatRec__prev_8py.html#a8e1a38f1db890ccfa717c1152098c52c",
-"strawtubes_8cxx_source.html",
-"test__mongodbadapter_8py.html#a6d48e6d68682def2d62d49413418a9d2"
+"ShipFieldCreator_8cxx.html",
+"TTCluster_8py.html#af0adfcf3af75877f09b122405862c6a3",
+"classCosmicsGenerator.html#acb7b3dadeb86940507d6198b42c0fd38",
+"classFixedTargetGenerator.html#af312d512426bbf7ce0f43ab437805532",
+"classMagneticSpectrometer.html#a7880f0fecbf068b4c9ecc91988728c9a",
+"classNuTauMudet.html#aef5398d90402cda11695c1728162664a",
+"classShipBFieldMap.html#a9a665a3afe4a8098fae3e8f9870c4f09",
+"classShipGoliath.html#a16a73f55d95ac90375782683a6ac2362",
+"classShipTAUMagneticSpectrometer.html#afdd2b8b67493453614ed096984ffcfee",
+"classTimeDet.html#a8c3421808056bac96640e98076b6a267",
+"classUpstreamTaggerPoint.html#a8ff1361e74d7413c5295331e5f83f01e",
+"classecalCluster.html#a692c7629b59011352e703013c5f25fb6",
+"classecalMatch.html#ad479ee2cce6df40c6f409876f07d62a8",
+"classeventDisplay_1_1EventLoop.html#a38f6045518a2939df45abeb099f158dc",
+"classhcalContFact.html",
+"classhnl_1_1constants.html#a0474ba9c9b5126f414d0311ed0b37dea",
+"classshipPid_1_1Task.html#a0e0665464fa01be8bee29b93a66ec4bc",
+"classsplitcalCluster.html#ae35a37e3f94112eb200dc7c36ccad70f",
+"classtest__shipGeoConfig_1_1TestSingleConfig.html#a939796f33cd1f73111ba02aac1ea160a",
+"dir_4b5c5316e9d796e7cb1aa4ab919c8f8c.html",
+"extractMuonsAndUpdateWeight_8py.html",
+"g4Ex__gap_8py.html#ab348a980c71ab88838d00f8f53af299e",
+"geometry__config_8py.html#a7e9f5a626c90ca9b245d19bf6fc23127",
+"goliath2root_8py.html#a08201171c49eed8adcb907dad9c5f9ed",
+"makeCascade_8py.html#a057828da937f33cac59ee2ea7e48b953",
+"mergeMbias_8py.html#aad3664e781b980fa99ce93e644d5612e",
+"namespaceTTCluster.html#a476e0ec4254b639967a6b178819552f3",
+"namespacedecorators.html",
+"namespaceg4Ex__gap.html#a10680ec2795d7acbd16dc8a9a0e351b4",
+"namespacegeometry__config.html#a6957bebda6b086351e1921a503199d15",
+"namespacegetGeoInformation.html#a12458b07dcd98d51aa7dff847eb23d34",
+"namespacemakeCascade.html#acbaaaba031642946a967ef1917aaa6d4",
+"namespacemergeMbias.html#ab1372ecf89249b646c717ce40dd26bcc",
+"namespacerun__fixedTarget.html#a6d5cc1c228964b1f271e6a82da5c5339",
+"namespaceship.html#a9780cccb8bc64317351d97dcce1cfc40",
+"namespaceshipunit.html#ac211f6ed31189548f84eec5e3099bd94",
+"pythia8__conf__utils_8py.html#a43d55c0d1f126273135b7104b9c9be54",
+"run__reco_8py.html#a73e3fdfbb8a0a2036568997225116e23",
+"shipPatRec_8py.html#afa3471624029a285169b4908bafeaa02",
+"splitcalContFact_8cxx.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
