@@ -59,13 +59,6 @@ var NAVTREE =
       [ "Documentation", "md_README.html#autotoc_md25", null ],
       [ "Contributing code", "md_README.html#autotoc_md26", null ]
     ] ],
-    [ "Documentation: Veto ( Decay Vessel + Integrated SBT )", "md_veto_README.html", [
-      [ "Introduction", "md_veto_README.html#autotoc_md28", null ],
-      [ "Plots and Results", "md_veto_README.html#autotoc_md29", [
-        [ "Plot 1: Description of Focus Line for the geometry:", "md_veto_README.html#autotoc_md30", null ],
-        [ "Dummy Table:", "md_veto_README.html#autotoc_md31", null ]
-      ] ]
-    ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -131,21 +124,21 @@ var NAVTREEINDEX =
 "geometry__config_8py.html#a7e9f5a626c90ca9b245d19bf6fc23127",
 "goliath2root_8py.html#a08201171c49eed8adcb907dad9c5f9ed",
 "makeCascade_8py.html#a057828da937f33cac59ee2ea7e48b953",
-"mergeMbias_8py.html#aad3664e781b980fa99ce93e644d5612e",
-"namespaceTTCluster.html#a476e0ec4254b639967a6b178819552f3",
-"namespacedecorators.html",
-"namespaceg4Ex__gap.html#a10680ec2795d7acbd16dc8a9a0e351b4",
-"namespacegeometry__config.html#a6957bebda6b086351e1921a503199d15",
-"namespacegetGeoInformation.html#a12458b07dcd98d51aa7dff847eb23d34",
-"namespacemakeCascade.html#acbaaaba031642946a967ef1917aaa6d4",
-"namespacemergeMbias.html#ab1372ecf89249b646c717ce40dd26bcc",
-"namespacerun__fixedTarget.html#a6d5cc1c228964b1f271e6a82da5c5339",
-"namespaceship.html#a9780cccb8bc64317351d97dcce1cfc40",
-"namespaceshipunit.html#ac211f6ed31189548f84eec5e3099bd94",
-"pythia8__conf__utils_8py.html#a43d55c0d1f126273135b7104b9c9be54",
-"run__reco_8py.html#a73e3fdfbb8a0a2036568997225116e23",
-"shipPatRec_8py.html#afa3471624029a285169b4908bafeaa02",
-"splitcalContFact_8cxx.html"
+"mergeMbias_8py.html#ac868a9218de956f3289f0de6965e5ac8",
+"namespaceTTCluster.html#a587df3e79359e8c7da15f56aaf318fda",
+"namespacedecorators.html#a696160ec95d0626c0add3c0a16847cd0",
+"namespaceg4Ex__gap.html#a1ce5edc8ca8401c30a8489ae39a0c243",
+"namespacegeometry__config.html#a6cf167e1fa2d1129279f0ddc60194964",
+"namespacegetGeoInformation.html#a46ef231f6e6ac413c84a3d5d40078580",
+"namespacemakeCascade.html#adb9dadfe5b910b543bfe56aa49814743",
+"namespacemergeMbias.html#acbc928bd807084cceea18d29a3b78a3f",
+"namespacerun__fixedTarget.html#a75f25953da0df2f57b5653ddfaebce97",
+"namespaceshipDet__conf.html#a4576d1ee059ada25fa7345ae3ac29aaf",
+"namespaceshipunit.html#acbf64e48979ad5ea4b14b34222c05dd7",
+"pythia8__conf__utils_8py.html#aab227acdae1aee734f8b0028f89eb02f",
+"run__reco_8py.html#a8e2acbf0e69d3b44f5ee98fda23728ce",
+"shipPatRec__prev_8py.html#a0446c1b07d9eb94aee5129f39e32bf16",
+"splitcalHit_8cxx.html#a2a4e3defa01c68456688479ba32a6a02"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

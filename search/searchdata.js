@@ -11,7 +11,7 @@ var indexSectionsWithContent =
   8: "dkuxyz",
   9: "beh",
   10: "_kp",
-  11: "cdfr"
+  11: "cfr"
 };
 
 var indexSectionNames =
