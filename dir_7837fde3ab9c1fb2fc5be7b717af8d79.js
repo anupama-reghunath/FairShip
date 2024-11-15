@@ -15,7 +15,6 @@ var dir_7837fde3ab9c1fb2fc5be7b717af8d79 =
     [ "hepunit.py", "hepunit_8py.html", "hepunit_8py" ],
     [ "hnl.py", "hnl_8py.html", "hnl_8py" ],
     [ "logger.py", "logger_8py.html", "logger_8py" ],
-    [ "makeALPACAEvents.py", "makeALPACAEvents_8py.html", "makeALPACAEvents_8py" ],
     [ "method_logger.py", "method__logger_8py.html", [
       [ "MethodLogger", "classmethod__logger_1_1MethodLogger.html", "classmethod__logger_1_1MethodLogger" ]
     ] ],
@@ -33,7 +32,6 @@ var dir_7837fde3ab9c1fb2fc5be7b717af8d79 =
     [ "ShieldUtils.py", "ShieldUtils_8py.html", "ShieldUtils_8py" ],
     [ "shipDet_conf.py", "shipDet__conf_8py.html", "shipDet__conf_8py" ],
     [ "shipDigiReco.py", "shipDigiReco_8py.html", "shipDigiReco_8py" ],
-    [ "shipEvent_ex.py", "shipEvent__ex_8py.html", "shipEvent__ex_8py" ],
     [ "ShipGeo.py", "ShipGeo_8py.html", "ShipGeo_8py" ],
     [ "ShipGeoConfig.py", "ShipGeoConfig_8py.html", "ShipGeoConfig_8py" ],
     [ "shipMuShield_only.py", "shipMuShield__only_8py.html", "shipMuShield__only_8py" ],
